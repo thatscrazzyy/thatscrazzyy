@@ -14,19 +14,15 @@
 
 ```yaml
 name:        Samarth Jagtap
-role:        software engineering senior · product brain · occasional dancer
+role:        software engineering senior · product brain · occasional dj
 based_in:    Dallas-Fort Worth, TX
 minor:       Commercial Filmmaking (yes, really)
-superpower:  turning "can someone fix this?" into a shipped tool by Friday
-weakness:    will absolutely over-engineer the check-in flow for your event
-philosophy:  match the guard to the blast radius
 ```
 
 ## 🚢 Things I've shipped that real humans use
 
 | Project | What it does | The number I'm proud of |
 |---|---|---|
-| **Inventory utility** · LapentON | Vite + Node + Postgres tool for 200k+ inventory records, vendor price comparison, bulk duplicate cleanup | ~15 hrs/week of manual work gone, queries 45% faster |
 | **Legacy app rescue** · LapentON | Migrated 2 ancient HTML/PHP apps to a modern stack with LLM-assisted refactoring | Estimated 6 months → 4 weeks |
 | **MCP agent platform** · LapentON | AI agents with scoped tools, approval workflows, audit logs, and rollback, deployed into a live Odoo environment | 0 unreviewed writes to production |
 | **[UTA Datathon platform](https://famous-lily-a54f63.netlify.app/)** | Registration, QR check-in, and analytics on Firebase | Check-in: ~60s → 10s for 400+ people |
@@ -53,7 +49,6 @@ legacy PHP apps laid to rest ........... 2
 
 - 🔧 Software / AI intern at LapentON, building internal tools and agentic systems
 - 🎓 Finishing a BS in Software Engineering at UTA (Dec 2026)
-- 🏛️ President of the Engineering Student Council and Datathon UTA
 - 🤖 Obsessing over agent guardrails and MCP tooling
 - 💃 Recovering from founding a Bollywood fusion dance team
 
