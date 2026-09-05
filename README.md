@@ -117,11 +117,6 @@ Sometimes. I ran the COCOMO II numbers on how a "3-month project" becomes a 28-m
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thatscrazzyy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thatscrazzyy/thatscrazzyy/skyline/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/thatscrazzyy/thatscrazzyy/skyline/profile-season-animate.svg" alt="3D contribution skyline" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thatscrazzyy/thatscrazzyy/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/thatscrazzyy/thatscrazzyy/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </picture>
